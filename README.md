@@ -1,8 +1,8 @@
-# Waves Client (beta version)
+# Mebel Client (beta version)
 
-The new client is available here and at [beta.wavesplatform.com](https://beta.wavesplatform.com/).
+The new client is available here and at [mebel.mir.one](https://mebel.mir.one/).
 
-The old stable client is available at [waveswallet.io](https://waveswallet.io/) and on branch [old-client](https://github.com/wavesplatform/WavesGUI/tree/old-client).
+The old stable client is available at [mir.one/mebel](https://mir.one/mebel/) and on branch [old-client](https://github.com/wavesplatform/WavesGUI/tree/old-client).
 
 ## Setup
 
